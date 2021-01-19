@@ -32,3 +32,4 @@ Since we couldn’t really get an out-of-the-box model that we simply needed to 
 
 * Use Arduino Nano 33 Ble Sense (much smaller, has more sensors, least environmental impact)
 * Use TensorFlow Lite so that the model will be on the hardware itself (will not need wifi/browser/)
+so it can truly be a TinyML project!
