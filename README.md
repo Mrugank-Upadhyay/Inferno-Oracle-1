@@ -7,7 +7,7 @@ Since the start of 2019, there have been numerous issues with controlling wildfi
 
 ## What it does
 
-So what was our approach? Well, we decided to go down the IoT route by using an arduino as our base unit whose goal is to use sensor data to feed a machine learning model. This means that we are able to deploy these small devices in high risk zones to monitor them 24/7. The device would collect data on temperature, humidity, wind, rain, and CO2 emissions to predict the likelihood of a fire, and at a worst case scenario, act as a direct detection system.
+So what was our approach? Well, we decided to go down the **Embedded Systems** route by using an arduino as our base unit whose goal is to use sensor data to feed a machine learning model. This means that we are able to deploy these small devices in high risk zones to monitor them 24/7. The device would collect data on temperature, humidity, wind, rain, and CO2 emissions to predict the likelihood of a fire, and at a worst case scenario, act as a direct detection system.
 
 ## How we built it
 
